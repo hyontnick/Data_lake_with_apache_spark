@@ -1,0 +1,62 @@
+[
+    {
+        "id": 0,
+        "produit": "product",
+        "quantit\u00e9": 3,
+        "date": "1971-08-19"
+    },
+    {
+        "id": 1,
+        "produit": "hit",
+        "quantit\u00e9": 2,
+        "date": "1984-11-24"
+    },
+    {
+        "id": 2,
+        "produit": "so",
+        "quantit\u00e9": 1,
+        "date": "2017-01-22"
+    },
+    {
+        "id": 3,
+        "produit": "board",
+        "quantit\u00e9": 5,
+        "date": "2004-10-25"
+    },
+    {
+        "id": 4,
+        "produit": "choice",
+        "quantit\u00e9": 4,
+        "date": "2016-02-22"
+    },
+    {
+        "id": 5,
+        "produit": "art",
+        "quantit\u00e9": 2,
+        "date": "2018-09-23"
+    },
+    {
+        "id": 6,
+        "produit": "baby",
+        "quantit\u00e9": 3,
+        "date": "1996-03-10"
+    },
+    {
+        "id": 7,
+        "produit": "such",
+        "quantit\u00e9": 4,
+        "date": "1971-02-25"
+    },
+    {
+        "id": 8,
+        "produit": "low",
+        "quantit\u00e9": 3,
+        "date": "1999-09-10"
+    },
+    {
+        "id": 9,
+        "produit": "process",
+        "quantit\u00e9": 1,
+        "date": "1988-03-08"
+    }
+]
